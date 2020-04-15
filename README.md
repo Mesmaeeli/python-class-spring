@@ -11,7 +11,7 @@ All the codes and resources for UTech Academy Python class.
 آشنایی با برخی ویژگی های زبان پایتون که ما را برای حل مسائل و همچنین
 اجرای برخی پروژه ها آماده میکند
 
-3. Introduction Applied Programing
+3. Applied Programing
 در این بخش به ارائه برخی از کابرد هایی که میتوانیم با زبان برنامه نویسی
 پایتون داشته باشیم خواهیم پرداخت.
 
