@@ -425,5 +425,6 @@ NameError: name 'list1' is not defined
 [5, 4, 24, 7, 3, 7, 0]
 >>> list1[2:3] = []
 >>> list1
+
 [5, 4, 7, 3, 7, 0]
 >>> 
