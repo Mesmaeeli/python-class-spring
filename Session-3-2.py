@@ -357,6 +357,7 @@ SyntaxError: invalid syntax
 >>> def sum2(*arg):
 	print(type(arg))
 
+
 	
 >>> sum2(12,5,2,6,7,3,6)
 <class 'tuple'>
