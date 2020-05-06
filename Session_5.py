@@ -1,6 +1,7 @@
 import tkinter as tk
 
 
+
 def change1():
    if s2.get() == '1':
       lb1.config(background = 'red')
